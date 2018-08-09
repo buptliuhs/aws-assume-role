@@ -1,0 +1,4 @@
+.idea/
+bin/*.ts
+bin/*.js.map
+bin/tsconfig.json
