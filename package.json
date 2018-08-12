@@ -1,6 +1,6 @@
 {
   "name": "aws-role",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Utility to do aws role.",
   "scripts": {
     "compile": "tsc -p bin"
@@ -17,13 +17,13 @@
   "bin": "bin/aws-role.js",
   "homepage": "https://github.com/buptliuhs/aws-role#readme",
   "dependencies": {
-    "aws-sdk": "^2.288.0",
+    "aws-sdk": "^2.291.0",
     "fs-extra": "^7.0.0",
     "yargs": "^12.0.1"
   },
   "devDependencies": {
     "@types/fs-extra": "^5.0.4",
-    "@types/node": "^10.5.7",
+    "@types/node": "^10.5.8",
     "@types/yargs": "^11.1.1",
     "typescript": "^3.0.1"
   }

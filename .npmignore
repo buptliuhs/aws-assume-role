@@ -2,3 +2,4 @@
 bin/*.ts
 bin/*.js.map
 bin/tsconfig.json
+yarn.lock
