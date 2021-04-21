@@ -2,7 +2,7 @@
 
 ## Install
 ```
-npm install -g aws-role`
+npm install -g aws-role
 ```
 
 ## View Help
